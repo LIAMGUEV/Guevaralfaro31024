@@ -1,0 +1,14 @@
+{
+  "name": "guevaralfaro31024",
+  "version": "1.0.0",
+  "description": "Eduardo Guevara proyecto backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Eduardo Guevara Alfaro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
